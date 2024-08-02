@@ -22,7 +22,7 @@ To set up and run this project, follow these steps:
     ```bash
     cd GolfClubLocation
     ```
-3 **Install the required packages**:
+3. **Install the required packages**:
     ```bash
     pip install -r requirements.txt
     ```
