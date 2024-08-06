@@ -1,14 +1,3 @@
-"""
-Author: Vladislav Sorokin
-Email: call2vlad@outlook.com
-Upwork Profile: https://www.upwork.com/freelancers/~019599c21a583c9cb7
-Date Created: 2/08/2024
-Last Updated: 2/08/2024
-Description: This script scrapes golf club information from the Golfriket website,
-including club names, coordinates, URLs, and addresses, and saves the data into a CSV file.
-License: MIT License
-"""
-
 import requests
 from bs4 import BeautifulSoup
 import re
